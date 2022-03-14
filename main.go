@@ -1,3 +1,3 @@
-package main
+package gomod
 
 type MyClass struct{}
